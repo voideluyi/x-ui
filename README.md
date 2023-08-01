@@ -198,8 +198,4 @@ xray 状态: 运行
 
 - [vaxilu/x-ui](https://github.com/vaxilu/x-ui)
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core)
-- [telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api)  
-
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/odinggg/x-ui.svg)](https://starchart.cc/odinggg/x-ui)
+- [telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api)
